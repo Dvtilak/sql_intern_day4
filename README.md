@@ -1,4 +1,4 @@
-# E-Commerce Database – Task 4: Aggregate Functions & Grouping
+# E-Commerce Database : Aggregate Functions & Grouping
 
 This task focuses on writing SQL queries that utilize aggregate functions such as `COUNT()` and `SUM()` along with `GROUP BY` and `HAVING` clauses to analyze the E-commerce database.
 
@@ -21,12 +21,10 @@ This task focuses on writing SQL queries that utilize aggregate functions such a
 - **Orders per Customer**  -->            Counts how many orders each customer placed
 - **Average Price per Category**  -->      Calculates category-wise average pricing
 - **Revenue per Product**  -->            Computes total revenue per product using `unitprice × quantity`
-- **Return Count per Product**  -->        Tallies returned items grouped by product
 - **Total Quantity Sold per Product**  --> Sums all units sold per product
 - **Popular Products**  -->                Filters products ordered more than twice
 - **Valuable Customers**  -->              Highlights customers with more than one order
-- **Average Discount per Product**  -->    Tracks product-level average discounts
-- **Orders with Multiple Items**  -->      Lists orders containing more than one product
+
 
 ## Highlights & Concepts
 
