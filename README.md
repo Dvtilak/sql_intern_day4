@@ -30,9 +30,9 @@ This task focuses on writing SQL queries that utilize aggregate functions such a
 
 ## Highlights & Concepts
 
-`COUNT()`   -->   Count number of rows or grouped records      
-`SUM()`     -->   Add up numeric values like quantity or revenue 
-`AVG()`     -->   Compute average values (e.g., price, discount)
-`GROUP BY`  -->   Group rows by columns like `productid`     
-`HAVING`    -->   Filter results **after** grouping 
+- `COUNT()`   -->   Count number of rows or grouped records      
+- `SUM()`     -->   Add up numeric values like quantity or revenue 
+- `AVG()`     -->   Compute average values (e.g., price, discount)
+- `GROUP BY`  -->   Group rows by columns like `productid`     
+- `HAVING`    -->   Filter results **after** grouping 
 
