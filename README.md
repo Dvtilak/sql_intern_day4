@@ -9,13 +9,6 @@ This task focuses on writing SQL queries that utilize aggregate functions such a
 - Understand grouping of results by key identifiers
 - Apply conditional filtering to grouped data using `HAVING`
 
-## Queries Covered
-
-- Count of returned items per product
-- Orders that include more than one item
-- Quantity count for each product
-- Grouping by product and order IDs
-
 ## Key Aggregate Query Use Cases
 
 - **Orders per Customer**  -->            Counts how many orders each customer placed
